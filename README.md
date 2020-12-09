@@ -24,7 +24,9 @@ ps：我是一个小渣渣，这些路径也不是我想出来的，我只是一
 ![avatar](https://github.com/Vagrant-aGuan/javaScript-learnTheNotes/blob/main/pathMap.png)
 
 ## 目录
-  + 
+  + 堆栈内存和闭包作用域
+    + 1、九种数据类型（基础）
+    + 2、堆栈内存和js底层运行机制
 ## 专题
   + 前端性能优化（xmind）
     + 1、
