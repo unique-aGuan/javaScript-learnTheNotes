@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<body>
+  <input type="button" value="按钮0">
+  <input type="button" value="按钮1">
+  <input type="button" value="按钮2">
+</body>
+<script>
+  let buttons = document.querySelectorAll('input');
+  /* for (var i = 0; i < 3; i++) {
+    (function (i) {
+      buttons[i].onclick = function () {
+        console.log(i)
+      }
+    })(i)
+  } */
+  for (let i = 0; i < 3; i++) {
+    buttons[i].onclick = function () {
+      console.log(i)
+    }
+  }
+</script>
+
+</html>
