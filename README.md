@@ -53,6 +53,7 @@ ps：我是一个没有天分的前端小渣，这些路径也不是我想出来
     + 1、js的同步异步和EvenLoop
     + 2、setTimeout（宏任务之一：浅析原理）
     + 3、promise基础
+    + 4、异步函数async、await
   + DOM事件
 ## 专题
   + 前端性能优化（xmind）
